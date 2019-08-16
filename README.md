@@ -19,3 +19,5 @@ public class AudioTest : MonoBehaviour
     }
 }
 ```
+
+![Audio Manager](audio-manager.jpg)
